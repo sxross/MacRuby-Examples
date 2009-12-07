@@ -1,0 +1,3 @@
+Examples of isolated Cocoa programming with MacRuby.
+
+* nsxmldocument_example/ An example of how to create an XML document from a string, and then query it using XPath
